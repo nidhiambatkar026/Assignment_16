@@ -22,3 +22,7 @@ nav{
     border-width: 5px;
     border-radius: 10px;
 }
+.release{
+    text-align: center;
+    font-size: 25px;
+}
