@@ -54,3 +54,9 @@ h2{
     font-size: 20px;
     border-width: 5px;
 }
+
+.container{
+    border: solid 5px #0066ff;
+    background-color: #b3d1ff;
+    font-size: 20px;
+}
